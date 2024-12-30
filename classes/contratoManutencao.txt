@@ -1,0 +1,11 @@
+<?php 
+
+class ContratoManutencao{
+
+    private $num_id_cm, $num_equipamentos_cm, $dta_inicio_cm, $dta_termino_cm,$val_valor_cm, $num_diapagamento_cm, $txt_ativo_cm;
+
+    
+
+}
+
+?>

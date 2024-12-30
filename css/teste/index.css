@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Importante{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:center;
+	color:#F00;
+}
+
+#tituloFormulario{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:15px;
+	text-align:center;
+	color:#FFF;
+	font-weight:bolder;
+	padding-right:10px;
+	float:right;
+}
+
+#tituloFormularioTopo{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:15px;
+	text-align:left;
+	color:#FFF;
+	font-weight:bolder;
+	padding-left:10px;
+}
+
+#imagemTitulo{
+	float:center;
+}
+
+#dadosRodape{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:10px;
+	text-align:center;
+	font-weight:bolder;	
+}
+
+#dataIndex{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:right;
+	font-weight:bolder;
+}
+
+
+
+
+

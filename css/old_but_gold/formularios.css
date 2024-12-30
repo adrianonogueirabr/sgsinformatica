@@ -1,0 +1,144 @@
+@charset "utf-8";
+/* CSS Document */
+
+#tituloCampoListagem{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:center;
+	font-weight:bolder;
+}
+
+#tituloCampoListagemEsquerdo{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:left;
+	font-weight:bolder;
+}
+
+#imagemRelatorio{
+	text-align:center;
+}
+
+#textoRelatorio{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:left;
+	padding-left:15px;
+}
+
+#tituloRelatorio{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:14px;
+	text-align:left;
+	font-weight:bolder;
+	padding-left:15px;
+	vertical-align:bottom;
+}
+
+#nomeCampoListagem{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:center;
+}
+
+#nomeCampoListagemEsquerda{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+	padding-left:5px;
+}
+
+#descricaoCampoListagem{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+}
+
+#nomeCampoRegistro{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+	vertical-align:bottom;
+}
+
+#Importante{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+	color:#F00;
+}
+
+#ImportanteRelatorio{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+	color:#F00;
+	vertical-align:bottom;
+}
+
+#nomeCriterio{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-align:left;
+	font-weight:bolder;
+}
+
+#tituloFormulario{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:15px;
+	text-align:right;
+	color:#FFF;
+	font-weight:bolder;
+	padding-right:10px;
+	vertical-align:middle;
+}
+
+#imagemTitulo{
+	float:left;
+}
+
+#dadosRodape{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:10px;
+	text-align:left;
+	font-weight:bolder;	
+}
+
+form input[type="text"] {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+    background-color:#f2f2f2;
+    border:1px solid #000;
+    padding:5px;
+	
+}
+
+form input[type="password"] {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+    background-color:#f2f2f2;
+    border:1px solid #000;
+    padding:5px;
+	
+}
+
+textarea {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+    background-color:#f2f2f2;
+    border:1px solid #000;
+    padding:5px;
+	
+}
+
+select{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11px;
+    background-color:#f2f2f2;
+    border:1px solid #000;
+    padding:5px;
+
+}
+
+
+
